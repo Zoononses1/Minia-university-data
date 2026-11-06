@@ -1,0 +1,21 @@
+{
+  "name": "minia-university-data",
+  "version": "1.0.0",
+  "description": "داتا جامعة المنيا – Zoonotic Salmonella One Health Surveillance data collection app (Minya)",
+  "author": "دكتور محمد محمود (Dr. Mohamed Mahmoud)",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/geolocation": "^6.0.1",
+    "@capacitor/share": "^6.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.1.2"
+  }
+}

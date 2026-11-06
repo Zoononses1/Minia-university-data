@@ -1,0 +1,6 @@
+{
+  "appId": "edu.minia.data",
+  "appName": "داتا جامعة المنيا",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
